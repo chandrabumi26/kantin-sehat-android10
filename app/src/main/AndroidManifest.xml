@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kantinsehat2.milenial2">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application xmlns:tools="http://schemas.android.com/tools"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.KantinSehat"
+        android:usesCleartextTraffic="true"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        tools:replace="android:theme">
+        <meta-data
+            android:name="com.kantinsehat2.milenial2.UnsafeOkHttpClient"
+            android:value="AppGlideModule" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.PesananInfo"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.ScanPesanan"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.PesananJajanan"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.PesananMinuman"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.KeranjangPesanan"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.PesananMakanan"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.Ending"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.MenuPager"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.SaldoInfo"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.ScanSaldoActivity"
+            android:exported="true" />
+        <activity
+            android:name="com.kantinsehat2.milenial2.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

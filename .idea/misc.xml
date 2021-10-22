@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/drawable-v24/buttonproses.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/drawable/buttonproses.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/layout/activity_pesanan_info.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/layout/activity_pesanan_phone.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/layout/activity_saldo_info.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinMilenial/app/src/main/res/layout/keranjang_items.xml" value="0.32189542483660133" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable-v24/buttonproses.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable-v24/greenbutton.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/button_primary.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/button_tambah.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/cart.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/delete.xml" value="0.20751953125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/greenbutton.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/ic_trash.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/pesanbg.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/round_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/drawable/roundbtn.xml" value="0.3828125" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_ending.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_keranjang_pesanan.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_makanan_menu.xml" value="0.3137820512820513" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_menu_pager.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesan_makanan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_jajanan.xml" value="0.3108974358974359" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_jajanan_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_minuman.xml" value="0.3108974358974359" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_minuman_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_pesanan_phone.xml" value="0.2987179487179487" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_saldo_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_scan_pesanan.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/activity_scan_saldo.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_info_saldo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_jajanan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_makanan.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_menu_pager.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_minuman.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/fragment_pesanan_items.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/keranjang_items.xml" value="0.5" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/keranjang_items_tablet.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/makanan_item.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/pesan_makanan_item.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/pesan_makanan_item_phone.xml" value="0.5" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/pesan_minuman_item.xml" value="0.1" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/pesanan_info_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/saldo_item.xml" value="0.75" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/test_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/layout/testdetail.xml" value="0.33" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/chand/AndroidStudioProjects/KantinSehat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

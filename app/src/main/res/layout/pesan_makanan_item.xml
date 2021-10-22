@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:id="@+id/MakananCv"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:cardCornerRadius="20dp"
+
+    app:cardUseCompatPadding="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:weightSum="3"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="350dp"
+        android:layout_height="350dp">
+
+        <ImageView
+            android:background="@color/merah"
+            android:layout_weight="1"
+            android:id="@+id/buatGambarMakanan"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY">
+
+        </ImageView>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/butIdMakanan"
+                android:textSize="0dp"
+                android:visibility="invisible"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+            <TextView
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:layout_marginLeft="5dp"
+                android:id="@+id/buatNamaMakanan"
+                android:textSize="20dp"
+                android:text="Nama Makanan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+            </TextView>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:textColor="@color/black"
+                    android:text="Rp."
+                    android:textSize="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:textStyle="bold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                </TextView>
+                <TextView
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:id="@+id/buatHargaMakanan"
+                    android:textSize="20dp"
+                    android:text="Harga"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                </TextView>
+            </LinearLayout>
+
+            <Button
+                android:background="@drawable/greenbutton"
+                android:id="@+id/beliButton"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:layout_margin="10dp"
+                android:textSize="20dp"
+                android:textAllCaps="false"
+                android:text="Tambah"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </Button>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

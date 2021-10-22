@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:weightSum="2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:background="@drawable/bg"
+    tools:context=".SaldoInfo">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/makananBack"
+            android:src="@drawable/ic_baseline_arrow_back_24"
+            android:layout_width="30dp"
+            android:layout_height="30dp">
+        </ImageView>
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:textSize="23dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="Kantin Sehat Milenial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        </TextView>
+    </LinearLayout>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="Total Saldo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </TextView>
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_weight="2"
+    android:id="@+id/rvSaldo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+</androidx.recyclerview.widget.RecyclerView>
+
+    <Button
+        android:textAllCaps="false"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"
+        android:text="Pesan"
+        android:background="@drawable/buttonproses"
+        android:id="@+id/pesanBUtton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </Button>
+
+</LinearLayout>
